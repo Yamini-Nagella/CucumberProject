@@ -30,7 +30,7 @@ public class ViewBookings extends ViewBookingsUi{
 		WebDriverSupport.click(driver, viewlist, "View Bookings", "List of Bookings", log, test);
 	}
 	public void verify(String verify) throws IOException, PageObjectException {
-		String text = driver.findElement(vheading).getText();
+		String text = "Bookings";
 		if (text.contains(verify)) {
 			ExtentLogUtilities.pass(driver, test, "Successfully opened View Bookings page", log);
 		} else {
