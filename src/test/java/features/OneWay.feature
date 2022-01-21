@@ -10,4 +10,4 @@ Feature: Booking One way Cars
     
     Examples: 
       | Source            	 |	Destination			|	month		|	day	|	time	|	cityname	|	date		|
-      | Bangalore, Karnataka |	Chennai, Tamil Nadu	|	January2022	|	20	|	2:30 PM	|	Bangalore	|	20-01-2022	|
+      | Bangalore, Karnataka |	Chennai, Tamil Nadu	|	January2022	|	24	|	2:30 PM	|	Bangalore	|	24-01-2022	|
