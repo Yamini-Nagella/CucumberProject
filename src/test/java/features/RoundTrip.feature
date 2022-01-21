@@ -13,4 +13,4 @@ Feature: Booking RoundTrip Cars
     
     Examples: 
       | Source            	 |	Destination			|	month1		|	day1	|	time	|	cityname	|	date		|	month2		|	day2	|
-      | Bangalore, Karnataka |	Chennai, Tamil Nadu	|	January2022	|	20		|	2:30 PM	|	Bangalore	|	20-01-2022	|	January2022	|	25		|
+      | Bangalore, Karnataka |	Chennai, Tamil Nadu	|	January2022	|	24		|	2:30 PM	|	Bangalore	|	24-01-2022	|	January2022	|	25		|
