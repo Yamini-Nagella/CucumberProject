@@ -10,4 +10,4 @@ Feature: Registering as a new user
     
     Examples: 
       | Name            	 |	Mobile		|	Email			|	password	|	cpassword	|
-      |NV					 |	1234567892	|	nv224@gmail.com	|	password	|	password	|
+      |NV					 |	1234567892	|	nv225@gmail.com	|	password	|	password	|
