@@ -11,4 +11,4 @@ Feature: Booking Airport Taxi
     
     Examples: 
       | City            	 |	address			   |	month		|	day	|	time	|	cityname	| date			|
-      | Bangalore, Karnataka | Bangalore, Karnataka|	January2022	|	20	|	2:30 PM	|	Bangalore	| 20-01-2022	|
+      | Bangalore, Karnataka | Bangalore, Karnataka|	January2022	|	24	|	2:30 PM	|	Bangalore	| 24-01-2022	|
